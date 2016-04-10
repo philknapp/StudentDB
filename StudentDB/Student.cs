@@ -7,7 +7,5 @@ namespace StudentDB
 {
     public class Student
     {
-
-
     }
 }
